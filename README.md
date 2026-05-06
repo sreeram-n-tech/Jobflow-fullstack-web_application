@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Jobflow-fullstack-web_application
-=======
 # JobFlow – End-to-End Job Application Management SaaS
 
 A full-stack **MERN** (MongoDB, Express, React, Node.js) web application for tracking your entire job search in one place.
